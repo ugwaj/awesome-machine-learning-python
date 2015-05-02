@@ -1,4 +1,4 @@
-# Machine and Deep Learning in Python
+# Machine and Deep Learning with Python
 
 
 Resources and examples.
