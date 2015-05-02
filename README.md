@@ -1,6 +1,8 @@
 Machine and Deep Learning in Python
 ===================================
 
+Resources and examples.
+
 Text Analysis
 -------------
 
