@@ -19,3 +19,9 @@ Resources and examples.
 ## Deep Learning Frameworks
 
 * [NErvana's pythON based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+
+## Video Streaming 
+
+### Use Case Examples
+
+* [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv)
