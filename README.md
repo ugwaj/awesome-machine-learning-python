@@ -34,5 +34,4 @@ Resources and examples.
 
 ## Fraud Detection
 
-### [Detecting Fraudulent Personalities in Networks of
-Online Auctioneers](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
+### [Detecting Fraudulent Personalities in Networks of Online Auctioneers](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
