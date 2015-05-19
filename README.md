@@ -35,3 +35,9 @@ Resources and examples.
 ## Fraud Detection
 
 * [Detecting Fraudulent Personalities in Networks of Online Auctioneers](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
+
+# Amazon AWS
+
+## Lambda
+
+* [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
