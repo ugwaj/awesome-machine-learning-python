@@ -41,3 +41,13 @@ Resources and examples.
 ## Lambda
 
 * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
+
+# Propaganda
+
+## Short Articles
+
+* http://www.work.caltech.edu/paper/sciam2012.pdf
+ 
+## Videos
+
+* https://www.youtube.com/watch?t=490&v=7Pq-S557XQU
