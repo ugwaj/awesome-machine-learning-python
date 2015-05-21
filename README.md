@@ -46,8 +46,8 @@ Resources and examples.
 
 ## Short Articles
 
-* http://www.work.caltech.edu/paper/sciam2012.pdf
+* [Machines that think for themselves](http://www.work.caltech.edu/paper/sciam2012.pdf)
  
 ## Videos
 
-* https://www.youtube.com/watch?t=490&v=7Pq-S557XQU
+* [Humans Need Not Apply](https://www.youtube.com/watch?t=490&v=7Pq-S557XQU)
