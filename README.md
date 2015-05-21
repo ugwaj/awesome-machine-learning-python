@@ -34,7 +34,7 @@ Resources and examples.
 
 ## Articles
 
-* [https://www.youtube.com/watch?v=sOLXOsiX0Qk](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
+* [Machine Learning and Law - Harry Surden](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
 
 ## Alghoritms
 
