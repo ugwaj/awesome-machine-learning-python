@@ -50,4 +50,10 @@ Resources and examples.
  
 ## Videos
 
+### Generic
+
 * [Humans Need Not Apply](https://www.youtube.com/watch?t=490&v=7Pq-S557XQU)
+
+### Law
+
+* [Professor Harry Surden Discusses Machine Learning within Law](https://www.youtube.com/watch?v=sOLXOsiX0Qk)
