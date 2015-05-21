@@ -57,3 +57,7 @@ Resources and examples.
 ### Law
 
 * [Professor Harry Surden Discusses Machine Learning within Law](https://www.youtube.com/watch?v=sOLXOsiX0Qk)
+
+### Social Risks
+
+* [Robot Economics] (https://www.youtube.com/watch?v=QGxH35SKInM)
