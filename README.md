@@ -30,9 +30,15 @@ Resources and examples.
 
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
 
-# Alghoritms
+# Theory
 
-## Fraud Detection
+## Articles
+
+* [https://www.youtube.com/watch?v=sOLXOsiX0Qk](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
+
+## Alghoritms
+
+### Fraud Detection
 
 * [Detecting Fraudulent Personalities in Networks of Online Auctioneers](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
 
