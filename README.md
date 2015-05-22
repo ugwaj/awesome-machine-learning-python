@@ -35,6 +35,7 @@ Resources and examples.
 ## Articles
 
 * [Machine Learning and Law - Harry Surden](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
+* [eBrevia Applies Machine Learning To Contract Review](http://www.forbes.com/sites/benkepes/2015/02/20/ebrevia-applies-machine-learning-to-contract-review/)
 
 ## Alghoritms
 
