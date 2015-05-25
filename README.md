@@ -1,13 +1,13 @@
 # Machine and Deep Learning with Python
 
 
-Resources and examples.
 
 ## Text Analysis
 
 
 * [Adam Palay - "Words, words, words": Reading Shakespeare with Python - PyCon 2015](https://www.youtube.com/watch?v=EoWG0lavg9U)
 * [High-quality XML versions of the complete works of Shakespeare](https://github.com/severdia/PlayShakespeare.com-XML)
+
 
 ## Visualization
 
@@ -54,6 +54,10 @@ Resources and examples.
 ## Short Articles
 
 * [Machines that think for themselves](http://www.work.caltech.edu/paper/sciam2012.pdf)
+
+## Image recognition
+
+* [What’s in This Picture? AI Becomes as Smart as a Toddler](http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler)
  
 ## Videos
 
