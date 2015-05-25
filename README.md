@@ -7,6 +7,7 @@
 
 * [Adam Palay - "Words, words, words": Reading Shakespeare with Python - PyCon 2015](https://www.youtube.com/watch?v=EoWG0lavg9U)
 * [High-quality XML versions of the complete works of Shakespeare](https://github.com/severdia/PlayShakespeare.com-XML)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 ## Visualization
