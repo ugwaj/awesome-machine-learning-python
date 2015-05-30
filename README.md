@@ -26,6 +26,8 @@
 ### Use Case Examples
 
 * [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv)
+* [Visualization of taxi trip end points](https://www.kaggle.com/hochthom/pkdd-15-predict-taxi-service-trajectory-i/visualization-of-taxi-trip-end-points)
+
 
 ## Tutorials
 
