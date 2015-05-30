@@ -32,6 +32,8 @@
 ## Tutorials
 
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
+* [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+
 
 # Theory
 
