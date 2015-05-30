@@ -41,7 +41,7 @@
 
 * [Machine Learning and Law - Harry Surden](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
 * [eBrevia Applies Machine Learning To Contract Review](http://www.forbes.com/sites/benkepes/2015/02/20/ebrevia-applies-machine-learning-to-contract-review/)
-
+* [Prediction and Quantification of Individual Athletic Performance](http://arxiv.org/pdf/1505.01147v2.pdf)
 ## Alghoritms
 
 ### Fraud Detection
