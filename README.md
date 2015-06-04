@@ -30,6 +30,11 @@
 * [Basic motion detection and tracking with Python and OpenCV](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv)
 * [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox](http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv)
 
+### Time
+
+* [aking Space Time Predictions using Python and Spark](https://www.youtube.com/watch?v=0YTIOn7_h_k)
+
+
 ## Tutorials
 
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
