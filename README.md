@@ -30,10 +30,13 @@
 * [Basic motion detection and tracking with Python and OpenCV](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv)
 * [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox](http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv)
 
-### Time
+## Time
 
 * [Making Space Time Predictions using Python and Spark](https://www.youtube.com/watch?v=0YTIOn7_h_k)
 
+## Audio
+
+* [Classifying and Visualizing Musical Pitch with K-means Clustering](http://www.galvanize.com/blog/2015/05/28/classifying-and-visualizing-musical-pitch-with-k-means-clustering)
 
 ## Tutorials
 
