@@ -27,8 +27,8 @@
 
 * [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](http://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv)
 * [Visualization of taxi trip end points](https://www.kaggle.com/hochthom/pkdd-15-predict-taxi-service-trajectory-i/visualization-of-taxi-trip-end-points)
-* (Basic motion detection and tracking with Python and OpenCV)[http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/]
-* (Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox)[http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv]
+* [Basic motion detection and tracking with Python and OpenCV](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv)
+* [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox](http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv)
 
 ## Tutorials
 
