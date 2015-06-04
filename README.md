@@ -32,7 +32,7 @@
 
 ### Time
 
-* [aking Space Time Predictions using Python and Spark](https://www.youtube.com/watch?v=0YTIOn7_h_k)
+* [Making Space Time Predictions using Python and Spark](https://www.youtube.com/watch?v=0YTIOn7_h_k)
 
 
 ## Tutorials
