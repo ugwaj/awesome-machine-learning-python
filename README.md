@@ -38,11 +38,14 @@
 
 * [Classifying and Visualizing Musical Pitch with K-means Clustering](http://www.galvanize.com/blog/2015/05/28/classifying-and-visualizing-musical-pitch-with-k-means-clustering)
 
-## Tutorials
+## Learning Machine Learning
 
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
+### Material Databases
+
+* [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning)
 
 # Theory
 
