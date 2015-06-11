@@ -89,6 +89,7 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 * [What’s in This Picture? AI Becomes as Smart as a Toddler](http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler)
 * [Bringing Deep Learning to the Grocery Store](https://dato.com/learn/gallery/notebooks/food_retrieval-public.html)
+* [PyImageSearch and Computer Vision] (http://www.talkpythontome.com/episodes/show/11/pyimagesearch-and-computer-vision)
 
 ## Python & Machine Learning
 
