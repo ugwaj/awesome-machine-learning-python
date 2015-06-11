@@ -49,7 +49,7 @@
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning)
 * [On Deep Learning
 A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-tweeted-bibliography-68ab095376e7)
-
+* [Continually updated Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 ### Courses
 
 * [Deep Learning Lecture - University of Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
