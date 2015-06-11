@@ -47,6 +47,10 @@
 
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning)
 
+### Courses
+
+* [Deep Learning Lecture - University of Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
+
 # Theory
 
 ## Articles
