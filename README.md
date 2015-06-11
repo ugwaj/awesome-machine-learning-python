@@ -15,6 +15,7 @@
 ### Pyplot
 
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
+* [Plotly for IPython Notebooks](https://dato.com/learn/gallery/notebooks/food_retrieval-public.html)
 
 
 ## Deep Learning Frameworks
