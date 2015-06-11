@@ -81,7 +81,11 @@
 ## Image recognition
 
 * [What’s in This Picture? AI Becomes as Smart as a Toddler](http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler)
- 
+
+## Python & Machine Learning
+
+* [http://www.pyvideo.org/video/3556/python-powered-machine-learning-in-the-cloud](http://www.pyvideo.org/video/3556/python-powered-machine-learning-in-the-cloud)
+
 ## Videos
 
 ### Generic
