@@ -1,6 +1,8 @@
 # Machine and Deep Learning with Python
 
+## Recommendations 
 
+* [Collaborative filtering recommendation engine implementation in python](http://dataaspirant.com/2015/05/25/collaborative-filtering-recommendation-engine-implementation-in-python)
 
 ## Text Analysis
 
@@ -43,6 +45,7 @@
 
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+* [How to implement a neural network](http://peterroelants.github.io/posts/neural_network_implementation_part01)
 
 ### Material Databases
 
@@ -50,7 +53,8 @@
 * [On Deep Learning
 A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-tweeted-bibliography-68ab095376e7)
 * [Continually updated Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-* 
+* [http://people.duke.edu/~ccc14/sta-663/index.html](http://people.duke.edu/~ccc14/sta-663/index.html) 
+
 ### Courses
 
 * [Deep Learning Lecture - University of Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
