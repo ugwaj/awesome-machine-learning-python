@@ -89,6 +89,7 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 * [Machines that think for themselves](http://www.work.caltech.edu/paper/sciam2012.pdf)
 * [How Artificial Intelligence Will Make Technology Disappear](https://medium.com/using-artificial-intelligence-to-make-technology/how-artificial-intelligence-will-make-technology-disappear-503cd88e1e6a)
+* [Deep Learning Machine Beats Humans in IQ Test](http://www.technologyreview.com/view/538431/deep-learning-machine-beats-humans-in-iq-test/)
 
 ## Image recognition
 
