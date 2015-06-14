@@ -99,7 +99,7 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 ## Python & Machine Learning
 
-* [http://www.pyvideo.org/video/3556/python-powered-machine-learning-in-the-cloud](http://www.pyvideo.org/video/3556/python-powered-machine-learning-in-the-cloud)
+* [Python-Powered Machine Learning in the Cloud](http://www.pyvideo.org/video/3556/python-powered-machine-learning-in-the-cloud)
 
 ## Videos
 
