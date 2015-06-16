@@ -76,6 +76,14 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 * [Prediction and Quantification of Individual Athletic Performance](http://arxiv.org/pdf/1505.01147v2.pdf)
 
+### Image Recognition
+
+* [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/pdf/1506.03478v1.pdf)
+
+### Random
+
+* [On the accuracy of self-normalized log-linear models](http://arxiv.org/pdf/1506.04147v1.pdf)
+* [Bayesian Dark Knowledge](http://arxiv.org/pdf/1506.04416v1.pdf)
 
 # Amazon AWS
 
