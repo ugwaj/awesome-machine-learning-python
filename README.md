@@ -65,6 +65,7 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 * [Machine Learning and Law - Harry Surden](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417415)
 * [eBrevia Applies Machine Learning To Contract Review](http://www.forbes.com/sites/benkepes/2015/02/20/ebrevia-applies-machine-learning-to-contract-review/)
+* [Introduction to Neural Machine Translation with GPUs](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus)
 
 ## Alghoritms
 
