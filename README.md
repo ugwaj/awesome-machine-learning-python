@@ -17,6 +17,10 @@
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
+## Money 
+
+* [Predicting Heavy and Extreme Losses in Real-Time for Portfolio Holders] (http://www.quantatrisk.com/2015/06/14/predicting-heavy-extreme-losses-portfolio-1)
+
 ## Visualization
 
 ### Pyplot
