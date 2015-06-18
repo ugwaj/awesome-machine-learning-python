@@ -132,3 +132,10 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 ### Social Risks
 
 * [Robot Economics] (https://www.youtube.com/watch?v=QGxH35SKInM)
+
+## Tools 
+
+### Libraries
+
+* [A library to build and test machine learning features] (https://pypi.python.org/pypi/featureforge/0.1.6)
+
