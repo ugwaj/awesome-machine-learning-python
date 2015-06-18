@@ -1,5 +1,9 @@
 # Machine and Deep Learning with Python
 
+## Gaming
+
+* [Artificial intelligence learns Mario level in just 34 attempts](http://www.engadget.com/2015/06/17/super-mario-world-self-learning-ai)
+
 ## Recommendations 
 
 * [Collaborative filtering recommendation engine implementation in python](http://dataaspirant.com/2015/05/25/collaborative-filtering-recommendation-engine-implementation-in-python)
