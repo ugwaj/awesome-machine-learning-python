@@ -7,6 +7,7 @@
 ## Recommendations 
 
 * [Collaborative filtering recommendation engine implementation in python](http://dataaspirant.com/2015/05/25/collaborative-filtering-recommendation-engine-implementation-in-python)
+* [NLP in python -- predicting HN upvotes from headlines](http://blog.dataquest.io/blog/predicting-upvotes)
 
 ## Text Analysis
 
