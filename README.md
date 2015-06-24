@@ -55,6 +55,8 @@
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 * [How to implement a neural network](http://peterroelants.github.io/posts/neural_network_implementation_part01)
+* [How to build and run your first deep learning network]
+(https://beta.oreilly.com/learning/how-to-build-and-run-your-first-deep-learning-network)
 
 ### Material Databases
 
