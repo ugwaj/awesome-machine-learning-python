@@ -65,6 +65,7 @@
 A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-tweeted-bibliography-68ab095376e7)
 * [Continually updated Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [http://people.duke.edu/~ccc14/sta-663/index.html](http://people.duke.edu/~ccc14/sta-663/index.html) 
+* [Stanford Reports for 2015](http://cs224d.stanford.edu/reports.html)
 
 ### Courses
 
