@@ -86,6 +86,10 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 
 * [Detecting Fraudulent Personalities in Networks of Online Auctioneers](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
 
+### Chat
+
+* [A Neural Conversational Model](http://arxiv.org/pdf/1506.05869v1.pdf)
+
 ### Sport
 
 * [Prediction and Quantification of Individual Athletic Performance](http://arxiv.org/pdf/1505.01147v2.pdf)
