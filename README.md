@@ -11,11 +11,10 @@
 
 ## Text Analysis
 
-
 * [Adam Palay - "Words, words, words": Reading Shakespeare with Python - PyCon 2015](https://www.youtube.com/watch?v=EoWG0lavg9U)
 * [High-quality XML versions of the complete works of Shakespeare](https://github.com/severdia/PlayShakespeare.com-XML)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
+* [Document Clustering with Python](http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb)
 
 ## Money 
 
@@ -57,6 +56,8 @@
 * [How to implement a neural network](http://peterroelants.github.io/posts/neural_network_implementation_part01)
 * [How to build and run your first deep learning network]
 (https://beta.oreilly.com/learning/how-to-build-and-run-your-first-deep-learning-network)
+* [Neural Nets for Newbies by Melanie Warrick](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+* [Data Science 101: Interactive Analysis with Jupyter, Pandas and Treasure Data](http://blog.treasuredata.com/blog/2015/06/23/data-science-101-interactive-analysis-with-jupyter-pandas-and-treasure-data)
 
 ### Material Databases
 
