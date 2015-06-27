@@ -1,5 +1,9 @@
 # Machine and Deep Learning with Python
 
+## Business
+
+* [Estimating a Real Business Cycle DSGE Model by Maximum Likelihood in Python](http://nbviewer.ipython.org/gist/ChadFulton/fbce8efd41fcf271b316)
+
 ## Gaming
 
 * [Artificial intelligence learns Mario level in just 34 attempts](http://www.engadget.com/2015/06/17/super-mario-world-self-learning-ai)
@@ -147,4 +151,5 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 ### Libraries
 
 * [A library to build and test machine learning features] (https://pypi.python.org/pypi/featureforge/0.1.6)
+* [deepy: Highly extensible deep learning framework based on Theano](https://github.com/uaca/deepy)
 
