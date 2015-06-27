@@ -97,7 +97,7 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 ### Image Recognition
 
 * [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/pdf/1506.03478v1.pdf)
-
+* [Suddenly, a leopard print sofa appears](http://rocknrollnerd.github.io/ml/2015/05/27/leopard-sofa.html)
 ### Random
 
 * [On the accuracy of self-normalized log-linear models](http://arxiv.org/pdf/1506.04147v1.pdf)
