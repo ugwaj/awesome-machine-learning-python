@@ -66,6 +66,7 @@
 (https://beta.oreilly.com/learning/how-to-build-and-run-your-first-deep-learning-network)
 * [Neural Nets for Newbies by Melanie Warrick](https://www.youtube.com/watch?v=Cu6A96TUy_o)
 * [Data Science 101: Interactive Analysis with Jupyter, Pandas and Treasure Data](http://blog.treasuredata.com/blog/2015/06/23/data-science-101-interactive-analysis-with-jupyter-pandas-and-treasure-data)
+* [Deep Learning Tutorial](http://videolectures.net/kdd2014_salakhutdinov_deep_learning)
 
 ### Material Databases
 
