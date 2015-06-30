@@ -4,6 +4,10 @@
 
 * [Estimating a Real Business Cycle DSGE Model by Maximum Likelihood in Python](http://nbviewer.ipython.org/gist/ChadFulton/fbce8efd41fcf271b316)
 
+## Bullying
+
+* [Understanding and fighting bullying with machine learning](http://research.cs.wisc.edu/bullying)
+
 ## Gaming
 
 * [Artificial intelligence learns Mario level in just 34 attempts](http://www.engadget.com/2015/06/17/super-mario-world-self-learning-ai)
