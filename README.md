@@ -78,6 +78,10 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 * [Stanford Reports for 2015](http://cs224d.stanford.edu/reports.html)
 * [Data Science Specialization](http://datasciencespecialization.github.io)
 
+#### Cheatsheets
+
+* [8 Best Machine Learning Cheat Sheets](http://designimag.com/best-machine-learning-cheat-sheets)
+
 ### Courses
 
 * [Deep Learning Lecture - University of Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
