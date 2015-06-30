@@ -77,7 +77,8 @@ A Tweeted Bibliography](https://medium.com/deep-learning-101/on-deep-learning-a-
 * [http://people.duke.edu/~ccc14/sta-663/index.html](http://people.duke.edu/~ccc14/sta-663/index.html) 
 * [Stanford Reports for 2015](http://cs224d.stanford.edu/reports.html)
 * [Data Science Specialization](http://datasciencespecialization.github.io)
-
+* [Unsupervised Feature Learning and Deep Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl)
+* 
 #### Cheatsheets
 
 * [8 Best Machine Learning Cheat Sheets](http://designimag.com/best-machine-learning-cheat-sheets)
