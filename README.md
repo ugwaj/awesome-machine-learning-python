@@ -1162,63 +1162,62 @@
 * [Import Python Newsletter](http://importpython.com/newsletter/)
 
 ###Blogs/Podcasts
-*[Hacker News for Data Science](http://www.datatau.com/news)
-*[The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
-*[Partially Derivative](http://www.partiallyderivative.com/)
-*[The Talking Machines](http://www.thetalkingmachines.com/)
-*[The Data Skeptic](http://dataskeptic.com/)
-*[Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
-*[Data Stories](http://datastori.es/)
-
-*[Learning Machines 101](http://www.learningmachines101.com/)
+* [Hacker News for Data Science](http://www.datatau.com/news)
+* [The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+* [Partially Derivative](http://www.partiallyderivative.com/)
+* [The Talking Machines](http://www.thetalkingmachines.com/)
+* [The Data Skeptic](http://dataskeptic.com/)
+* [Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+* [Data Stories](http://datastori.es/)
+* [Learning Machines 101](http://www.learningmachines101.com/)
 
 ###Data Science / Statistics
-http://iamtrask.github.io/
-http://blog.explainmydata.com/
-http://andrewgelman.com/
-http://simplystatistics.org/
-http://www.evanmiller.org/
-http://jakevdp.github.io/
-http://blog.yhathq.com/
-http://blog.wesmckinney.com/
-http://www.overkillanalytics.net/
-http://newton.cx/~peter/
-http://mbakker7.github.io/exploratory_computing_with_python/
-http://sebastianraschka.com/articles.html
-http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-http://colah.github.io/
-http://snippyhollow.github.io/
-http://www.thomasdimson.com/
-http://blog.smellthedata.com/
-http://sebastianraschka.com/
-http://dogdogfish.com/
-http://www.johnmyleswhite.com/
-http://drewconway.com/zia/
-http://bugra.github.io/
-http://opendata.cern.ch/
-http://alexanderetz.com/
-http://www.sumsar.net/
-http://countbayesie.com
-http://karpathy.github.io/
-http://blog.dato.com/
-http://blog.kaggle.com/
-http://www.danvk.org/
-http://hunch.net/
+* http://iamtrask.github.io/
+* http://blog.explainmydata.com/
+* http://andrewgelman.com/
+* http://simplystatistics.org/
+* http://www.evanmiller.org/
+* http://jakevdp.github.io/
+* http://blog.yhathq.com/
+* http://blog.wesmckinney.com/
+* http://www.overkillanalytics.net/
+* http://newton.cx/~peter/
+* http://mbakker7.github.io/exploratory_computing_with_python/
+* http://sebastianraschka.com/articles.html
+* http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+* http://colah.github.io/
+* http://snippyhollow.github.io/
+* http://www.thomasdimson.com/
+* http://blog.smellthedata.com/
+* http://sebastianraschka.com/
+* http://dogdogfish.com/
+* http://www.johnmyleswhite.com/
+* http://drewconway.com/zia/
+* http://bugra.github.io/
+* http://opendata.cern.ch/
+* http://alexanderetz.com/
+* http://www.sumsar.net/
+* http://countbayesie.com
+* http://karpathy.github.io/
+* http://blog.dato.com/
+* http://blog.kaggle.com/
+* http://www.danvk.org/
+* http://hunch.net/
 
 ###Maths
-http://www.sumsar.net/
-http://allendowney.blogspot.ca/
-http://healthyalgorithms.com/
-http://petewarden.com/
-http://mrtz.org/blog/
+* http://www.sumsar.net/
+* http://allendowney.blogspot.ca/
+* http://healthyalgorithms.com/
+* http://petewarden.com/
+* http://mrtz.org/blog/
 
 ###Security Related
-http://jordan-wright.github.io/blog/
+* http://jordan-wright.github.io/blog/
 
 ##Books
 ### Machine-Learning / Data Mining
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
-* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
+* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) 
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
 * [Thinking Bayes](http://www.greenteapress.com/thinkbayes/) - Book + Python Code
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
@@ -1298,17 +1297,17 @@ http://jordan-wright.github.io/blog/
 ##Events
 
 ###Conferences
-*[SciPy 2015](http://scipy2015.scipy.org/)
+* [SciPy 2015](http://scipy2015.scipy.org/)
 
 ###Meetups
-*[PyData London Meetup](http://www.meetup.com/PyData-London-Meetup/)
-*[San Francisco PyData](http://www.meetup.com/San-Francisco-PyData/)
-*[PyData Seattle](http://www.meetup.com/PyData-Seattle/)
-*[PyData NYC](http://www.meetup.com/PyDataNYC/)
-*[Front Range PyData](http://www.meetup.com/Front-Range-PyData/)
-*[PyData Berlin](http://www.meetup.com/PyData-Berlin/)
-*[PyData Boston](http://www.meetup.com/PyData-Boston/)
-*[PyData Warsaw](http://www.meetup.com/PyData-Warsaw/)
+* [PyData London Meetup](http://www.meetup.com/PyData-London-Meetup/)
+* [San Francisco PyData](http://www.meetup.com/San-Francisco-PyData/)
+* [PyData Seattle](http://www.meetup.com/PyData-Seattle/)
+* [PyData NYC](http://www.meetup.com/PyDataNYC/)
+* [Front Range PyData](http://www.meetup.com/Front-Range-PyData/)
+* [PyData Berlin](http://www.meetup.com/PyData-Berlin/)
+* [PyData Boston](http://www.meetup.com/PyData-Boston/)
+* [PyData Warsaw](http://www.meetup.com/PyData-Warsaw/)
 
 
 
